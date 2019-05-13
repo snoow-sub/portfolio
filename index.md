@@ -17,12 +17,39 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 Nice to meet you. My name is Yuuki, a 20-year-old attending Tokyo University of Technology. When I was in third grade, I started programming with an interest in creating games on my own.
 
-This site is a portfolio site where I wrote what I have done.I want many people to know me.
+This site is a portfolio site where I wrote what I have done.I want many people to know me. 
 
 ## Achievement　
 
+### Junior High School
+
+#### Quiz Game
+
+I learned how to make a quiz game on a site for super beginners. The language used is Java. This was my first programming.
+
+Here, I write an input process that was particularly interesting.
+
 ```
-const hello = () => {
- return "Hello World!"
+try {	 
+    final int IMPUT_MAX = 3; //Max Value
+    //Keyboard reading process
+    java.util.Scanner sc = new java.util.Scanner(System.in);	 
+    int inputInt = sc.nextInt();	 
+    //Check and subsititution
+    if (inputInt > 0 && inputInt <= IMPUT_MAX) {	 
+        tmpInputNum = inputInt;	 
+    } else {	 
+        System.out.println("Over limit!");	 
+    }	 
+} catch (Exception e) {	 
+    System.out.println("Please enter only numbers!");	 
 }
 ```
+
+Learning site (English)
+>http://www.gamecradle.net/en/document/main/content/doki/index.html
+
+Learning site (Japanese)
+>http://www.gamecradle.net/document/main/content/doki/introduction.html
+
+### High School (Industrial high school)
