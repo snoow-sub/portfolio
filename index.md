@@ -7,4 +7,4 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 ## My profile
 
-<img width="200px" height="200px" src="/images/Img.jpg"></img>
+<img src="/images/Img.jpg" width="200px" height="200px" alt="My Profile Image">
