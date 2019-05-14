@@ -8,7 +8,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 ## My profile
 
 <html>
-<img src="images/Img.jpg" width="200px" height="200px" alt="My Profile Image">
+<img src="/images/Img.jpg" width="200px" height="200px" alt="My Profile Image">
 </html>
 
 - Name : Yuuki Takagi (Japanese : 高木優希)
