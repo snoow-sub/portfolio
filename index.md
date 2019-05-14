@@ -7,8 +7,9 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 ## My profile
 
-<!--<img src="https://github.com/7vXXi/portfolio/blob/master/images/Img.jpg" width="200px" height="200px" alt="My Profile Image"> -->
-![My Profile Image](https://github.com/7vXXi/portfolio/blob/master/images/Img.jpg)
+<html>
+<img src="https://github.com/7vXXi/portfolio/blob/master/images/Img.jpg" width="200px" height="200px" alt="My Profile Image">
+</html>
 
 - Name : Yuuki Takagi (Japanese : 高木優希)
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachi%C5%8Dji)
