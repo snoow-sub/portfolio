@@ -30,6 +30,8 @@ Click [here](/junior/index.md) to see.
 In junior high school, I made a simple quiz game.
 This was my first programming.
 
+>https://7vxxi.github.io/portfolio/junior/
+
 ### High School (Industrial high school)
 
 Comming Soon...
