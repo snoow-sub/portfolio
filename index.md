@@ -9,9 +9,7 @@ Click [here](https://github.com/7vXXi/portfolio/) to change.
 
 ## My profile
 
-<html>
-<img src="/images/Img.jpg" width="200px" height="200px" alt="My Profile Image">
-</html>
+![My Profile Image](/images/Img.jpg)
 
 - Name : Yuuki Takagi (Japanese : 高木優希)
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachi%C5%8Dji)
