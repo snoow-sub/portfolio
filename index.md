@@ -5,7 +5,7 @@ I am not used to using GitHub. And I am not very confident in English, but I wil
 
 This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jekyllrb.com/) .
 
-Click [here](https://github.com/7vXXi/portfolio/) to change.
+<!-- Click [here](https://github.com/7vXXi/portfolio/) to change. -->
 
 ## My profile
 
