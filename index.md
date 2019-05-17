@@ -38,6 +38,8 @@ Click [here](/high/index.md) to see.
 In High School, I made a lot of items.
 I studied programming in earnest.
 
+>https://7vxxi.github.io/portfolio/high/
+
 ### University
 
 Comming soon...
