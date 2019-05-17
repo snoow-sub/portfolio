@@ -1,5 +1,5 @@
 title: [My Portfolio Page]
 description: [Trace of effort]
-show_downloads: false
+#show_downloads: 
 google_analytics:
 theme: jekyll-theme-slate
