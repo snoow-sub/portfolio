@@ -9,4 +9,4 @@ Here, we will fix the code and publish the data uploaded to the rental server.
 
 From [here](http://tibineko923.starfree.jp/) if you want to login.
 
-![Shopping Site Image](/images/shop_pic.png)
+![Shopping Site Image](/images/shop_pic.PNG)
