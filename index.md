@@ -34,4 +34,10 @@ This was my first programming.
 
 ### High School (Industrial high school)
 
-Comming Soon...
+Click [here](/high/index.md) to see.
+In High School, I made a lot of items.
+I studied programming in earnest.
+
+### University
+
+Comming soon...
