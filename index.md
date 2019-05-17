@@ -1,5 +1,3 @@
-<a class="zip_download_link" href="https://github.com/pages-themes/slate/zipball/master">Download this project as a .zip file</a>
-
 ## Welcome to My Portfolio Pages
 
 This is my portfolio pages. Here are the artifacts I created in my life. 
