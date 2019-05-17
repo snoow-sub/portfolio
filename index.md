@@ -1,8 +1,3 @@
-<head>
-  <title> My Portfolio </title>
-</head>
-
-# Test
 
 ## Welcome to My Portfolio Pages
 
