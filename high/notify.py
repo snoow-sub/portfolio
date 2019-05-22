@@ -42,8 +42,13 @@ def login_google(driver):
     except:
         time.sleep(3)
         WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_id_xpath)))
-        
-    driver.find_element_by_name("identifier").send_keys(login_id)
+    time.sleep(2)
+    try:
+        driver.find_element_by_name("identifier").send_keys(login_id)
+    except:
+        time.sleep(3)
+        driver.find_element_by_name("identifier").send_keys(login_id)
+    time.sleep(3)
     driver.find_element_by_xpath(login_id_xpath).click()
     time.sleep(2)
     
@@ -55,15 +60,19 @@ def login_google(driver):
     except:
         time.sleep(3)
         WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_id_xpath)))
-        
-    driver.find_element_by_name("password").send_keys(login_pw)
-    time.sleep(1) # クリックされずに処理が終わるのを防ぐために追加。
+    time.sleep(2)
+    try:
+        driver.find_element_by_name("password").send_keys(login_pw)
+    except:
+        time.sleep(3)
+        driver.find_element_by_name("password").send_keys(login_pw)
+    time.sleep(3)
     driver.find_element_by_xpath(login_pw_xpath).click()
     time.sleep(2)
         
     data = ""
     file = []
-    
+    time.sleep(1)
     try:
         data = driver.find_elements_by_class_name("searchTable")
     except:
@@ -75,13 +84,13 @@ def login_google(driver):
             file.append((data[i].text + '\n'))
         else:
             message = ""
-    
+    time.sleep(3)
     #次ページへ
     for i in range(2, 10):
         data = ""
         try:
             driver.get(url + 'page' + str(i) + '/')
-            time.sleep(2)
+            time.sleep(3)
             data = driver.find_elements_by_class_name("searchTable")
             if(len(data) < 1):
                 break
@@ -89,7 +98,7 @@ def login_google(driver):
         except:
             data = ""
             break
-        
+        time.sleep(2)
         for j in range(len(data)):
             message = data[j].text
             if((message.find('3年次') > 0) and (message.find('コンピュータサイエンス') > 0)):
@@ -97,11 +106,13 @@ def login_google(driver):
             else:
                 message = ""
               
-    time.sleep(1)
+    time.sleep(3)
     
     # ファイル書き込み（新データ）
     with open("new.txt", mode='w') as f:
         f.writelines(file)
+    
+    time.sleep(3)
     
     # ファイル読み込み（元データ）
     base = []
@@ -111,13 +122,15 @@ def login_google(driver):
     except:
             data1 = []
    
+    time.sleep(2)
+    
     for i in range(0, len(data1), 6):
         tmp = ""
         for j in range(i, i+6, 1):
             tmp += data1[j]
         base.append(tmp)
     
-    time.sleep(1)
+    time.sleep(3)
         
     # ファイル読み込み（新データ）
     new = []
@@ -129,6 +142,8 @@ def login_google(driver):
         for j in range(i, i+6, 1):
             tmp += data2[j]
         new.append(tmp)
+        
+    time.sleep(3)
 
     # ファイル比較(一致:1, 新データ:0)
     check = [0] * len(new)
@@ -138,6 +153,8 @@ def login_google(driver):
                 check[i] = 1
                 break
 
+    time.sleep(3)
+    
     # 新しい情報を通知(LINE)
     #print(check) #チェック用
     
@@ -153,13 +170,13 @@ def login_google(driver):
             payload = {"message" :  message}
             line_notify = requests.post(lurl, data = payload, headers = headers)
         
-    time.sleep(1)
+    time.sleep(3)
     
     # ファイル書き込み（新データを元データとする）
     with open("base.txt", mode='w') as fw:
         fw.writelines(new)
         
-    time.sleep(1)
+    time.sleep(3)
     
     # 終了
     driver.quit()
