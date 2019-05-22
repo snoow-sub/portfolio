@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.options import Options
 
 def start_chrome():
     # chromedriverのPATHを指定（Pythonファイルと同じフォルダの場合）
-    driver_path = 'C:\python37\Lib\site-packages\chromedriver_win32\chromedriver'
+    driver_path = '/usr/bin/chromedriver'
 
     # Chrome起動
     options = webdriver.ChromeOptions()
@@ -132,8 +132,8 @@ def login_google(driver):
     #print(check) #チェック用
     
     lurl = "https://notify-api.line.me/api/notify"
-    token = "KB6C96IHkxyVcjVwJIL5BAtHBfOFe2llZqjKQRcisvp"  #自分用
-    #token = "jwt1S2QjWNuAxE2v0HnZ6qdIFIY3kThRESVfv15d880" #グループ
+    #token = "KB6C96IHkxyVcjVwJIL5BAtHBfOFe2llZqjKQRcisvp"  #自分用
+    token = "jwt1S2QjWNuAxE2v0HnZ6qdIFIY3kThRESVfv15d880" #グループ
     headers = {"Authorization" : "Bearer "+ token}
     
     for i in range(len(check)):
