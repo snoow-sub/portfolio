@@ -37,7 +37,12 @@ def login_google(driver):
     ### IDを入力
     login_id_xpath = '//*[@id="identifierNext"]'
     # xpathの要素が見つかるまで待機します。
-    WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_id_xpath)))
+    try:
+        WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_id_xpath)))
+    except:
+        time.sleep(3)
+        WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_id_xpath)))
+        
     driver.find_element_by_name("identifier").send_keys(login_id)
     driver.find_element_by_xpath(login_id_xpath).click()
     time.sleep(2)
@@ -45,7 +50,12 @@ def login_google(driver):
     ### パスワードを入力
     login_pw_xpath = '//*[@id="passwordNext"]'
     # xpathの要素が見つかるまで待機します。
-    WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_pw_xpath)))
+    try:
+        WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_pw_xpath)))
+    except:
+        time.sleep(3)
+        WebDriverWait(driver, wait_time).until(EC.presence_of_element_located((By.XPATH, login_id_xpath)))
+        
     driver.find_element_by_name("password").send_keys(login_pw)
     time.sleep(1) # クリックされずに処理が終わるのを防ぐために追加。
     driver.find_element_by_xpath(login_pw_xpath).click()
