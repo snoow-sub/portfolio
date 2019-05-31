@@ -31,7 +31,7 @@ Click [here](/junior/index.md) to see.
 In junior high school, I made a simple quiz game.
 This was my first programming.
 
->https://7vxxi.github.io/portfolio/junior/
+[Jump page→](https://7vxxi.github.io/portfolio/junior/)
 
 ### High School (Industrial high school)
 
@@ -39,7 +39,7 @@ Click [here](/high/index.md) to see.
 In High School, I made a lot of items.
 I studied programming in earnest.
 
->https://7vxxi.github.io/portfolio/high/
+[Jump page→](https://7vxxi.github.io/portfolio/high/)
 
 ### University
 
