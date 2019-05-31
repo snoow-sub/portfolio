@@ -27,3 +27,5 @@ Learning site (English)
 Learning site (Japanese)
 >http://www.gamecradle.net/document/main/content/doki/introduction.html
 
+
+[←back]([Jump page→](https://7vxxi.github.io/portfolio/)
