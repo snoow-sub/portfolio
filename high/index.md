@@ -29,13 +29,20 @@ void Hanoi(int n, char from, char work, char to)
   if (n > 0) {
     Hanoi(n-1, from, to, work);
     // Output from → to
-    Hanoi(n-1, work, from, to);;
+    Hanoi(n-1, work, from, to);
   }
   return;
 }
 ```
+Here is the function I implemented.
+From the Tower of Hanoi, I learned many things such as basic syntax, sorting, arrays, 
+string operations, search methods, recursion, file operations, links, and more.
 
 ### Android Java Program
+
+
+
+### Group programming
 
 Comming Sonn...
 
