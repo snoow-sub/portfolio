@@ -31,7 +31,7 @@ Click [here](/junior/index.md) to see.
 In junior high school, I made a simple quiz game.
 This was my first programming.
 
-[Jump page→](https://7vxxi.github.io/portfolio/junior/)
+[Jump page(Junior High School) →](https://7vxxi.github.io/portfolio/junior/)
 
 ### High School (Industrial high school)
 
@@ -39,8 +39,17 @@ Click [here](/high/index.md) to see.
 In High School, I made a lot of items.
 I studied programming in earnest.
 
-[Jump page→](https://7vxxi.github.io/portfolio/high/)
+[Jump page(High School) →](https://7vxxi.github.io/portfolio/high/)
 
 ### University
 
-Comming soon...
+Click [here](/univ/index.md) to see.
+In University, I have a new challenge.
+
+[Jump page(University) →](https://7vxxi.github.io/portfolio/univ/)
+
+### Future
+
+I have a dream. I want to be an infrastructure engineer.
+I am interested in various things and want to improve my knowledge and skills.
+
