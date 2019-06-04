@@ -40,7 +40,20 @@ string operations, search methods, recursion, file operations, links, and more.
 
 ### Android Java Program
 
+Challenged to color identification by Android camera.
+<a class="zip_download_link" href="https://github.com/7vXXi/portfolio/raw/master/high/Camera_color.zip">Download this project as a .zip </a>
+The installation procedure is as follows.
+ 1. Take a picture
+ 2. Import an image as a bitmap
+ 3. Get RGB value of specified range
+ 4. Identify the color from the ratio of Red, Green and Blue
+ 
+If you save, load, or acquire RGB values while the camera is in use, it may freeze. 
+Therefore, it is not possible to press the shutter until a series of processing is completed.
 
+I created a target hitting game using this.
+<a class="zip_download_link" href="https://github.com/7vXXi/portfolio/raw/master/high/Camera_target.zip">Download this project as a .zip </a>
+Point the camera to a target image, release the shutter, and points will be added.
 
 ### Group programming
 
