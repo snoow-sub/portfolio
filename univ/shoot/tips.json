@@ -1,0 +1,41 @@
+{
+    "error_tips_table": [{
+        "cond": {
+            "title": "enchant.js が読み込まれていないようです。",
+            "content": "enchant.js を読み込むには、index.htmlの head タグの中に以下のタグを貼り付けましょう。[code]<script src='http://coderun.9leap.net/static/enchant.js-latest/enchant.js'></script>[/code] ダッシュボードに戻って「はじめてのenchant.js」から好きなプロジェクトを Fork してもOKです。"
+        },
+        "title": "enchant.js が読み込まれていないようです。"
+    }, {
+        "cond": {
+            "title": "構文エラーが起きているようです。",
+            "content": "enchant.js は読み込まれていますが、main.js の中で構文エラーが起きているか、enchant(); が実行されていないようです。"
+        },
+        "title": "構文エラーが起きているようです。"
+    }, {
+        "cond": {
+            "title": "new Game(); に失敗しているようです。",
+            "content": "enchant.js を読み込むには、index.htmlの head タグの中に以下のタグを貼り付けましょう。[code]<script src='http://coderun.9leap.net/static/enchant.js-latest/enchant.js'></script>[/code] ダッシュボードに戻って「はじめてのenchant.js」から好きなプロジェクトを Fork してもOKです。"
+        },
+        "title": "new Game(); に失敗しているようです。"
+    }, {
+        "cond": {
+            "title": "addChild を忘れていませんか?",
+            "content": "new Sprite() や new Label() などで生成したオブジェクトを表示するには、以下のように ゲームオブジェクトのルートシーンに[code]game.rootScene.addChild(sprite);[/code]"
+        },
+        "title": "addChild を忘れていませんか?"
+    }],
+    "progress_tips_table": [{
+        "cond": "game.rootScene.childNodes.length>=5",
+        "title": "課題1",
+        "content": "クマを5体以上出してみよう!できるかな?"
+    }, {
+        "cond": "(game.rootScene.childNodes[0].frame!=game.rootScene.childNodes[1].frame)||(game.rootScene.childNodes[2].frame!=game.rootScene.childNodes[1].frame)",
+        "title": "課題2",
+        "content": "さすがだね!<BR>じゃあ今度はそれぞれのクマのポーズや色、性別なんかをそれぞれ変えてみよう。[code]bear1.frame=5;//白クマになるぞ;<BR/>bear2.frame=10;//女の子になるぞ[/code]さあ、できるかな?"
+    }                      
+    ],
+    "default_tips_table": [{
+        "title": "おめでとうございます",
+        "content": "<img width=160px src=http://junk.wise9.jp/code9/clear.gif><BR>enchant.jsのクラスをマスターしました!<BR>チュートリアルはどんどん増えて行くぞ!"
+    }]
+}
