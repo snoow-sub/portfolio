@@ -6,8 +6,9 @@ In University, I'm trying new things.
 <a class="zip_download_link" href="https://github.com/7vXXi/portfolio/raw/master/univ/shooting.zip">Download this project as a .zip file</a>
 
 It is a shooting game created in the class.
-You will be able to play [here](http://tf6.html.xdomain.jp/shoot/)
->http://tf6.html.xdomain.jp/shoot/
+You will be able to play [here](https://7vxxi.github.io/portfolio/univ/shoot/)
+>https://7vxxi.github.io/portfolio/univ/shoot/
+
 
 ### Cancellation Information Acquisition Program (Python)<a class="zip_download_link" href="https://github.com/7vXXi/portfolio/raw/master/univ/Notify.zip">Download this project as a .zip file</a>
 
