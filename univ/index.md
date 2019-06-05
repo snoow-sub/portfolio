@@ -2,6 +2,13 @@
 
 In University, I'm trying new things.
 
+### Shooting Game (HTML + JavaScript)
+<a class="zip_download_link" href="https://github.com/7vXXi/portfolio/raw/master/univ/shooting.zip">Download this project as a .zip file</a>
+
+It is a shooting game created in the class.
+You will be able to play [here](http://tf6.html.xdomain.jp/shoot/)
+>http://tf6.html.xdomain.jp/shoot/
+
 ### Cancellation Information Acquisition Program (Python)<a class="zip_download_link" href="https://github.com/7vXXi/portfolio/raw/master/univ/Notify.zip">Download this project as a .zip file</a>
 
 In my university, when a lecture is canceled, a notice will be posted on the campus site.
