@@ -28,4 +28,4 @@ Learning site (Japanese)
 >http://www.gamecradle.net/document/main/content/doki/introduction.html
 
 
-[←back](https://7vxxi.github.io/portfolio/)
+[←back](https://7vvxi.github.io/portfolio/)
