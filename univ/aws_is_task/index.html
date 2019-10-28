@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>AWS採用技術試験(2019)</title>
+<link rel="stylesheet" href="./tasks/bootstrap.min.css">
+<link rel="stylesheet" href="./tasks/bootstrap-theme.min.css">
+<script src="./tasks/jquery-2.1.3.min.js"></script>
+<script src="./tasks/bootstrap.min.js"></script>
+<style>
+body {
+  margin-left: 32px;
+  margin-right: 32px;
+}
+</style>
+</head>
+<body>
+<h2>2019年度版 Amazon Web Services クラウドエンジニア 採用技術試験</h2>
+<hr>
+<!--<base target="_blank">--><base href="." target="_blank">
+<style>
+.markdown-body {
+  margin-left: 32px;
+  margin-right: 32px;
+}
+h3 {
+  text-decoration: underline
+}
+h4 {
+  color: red
+}
+</style>
+<div class="markdown-body entry-content">
+<h3>
+<a id="user-content-summary" class="anchor" href="./index#summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>概要</h3>
+
+<p>現在持っている知識だけを問うものではない。<br>
+Webサーバ構築やプログラム開発の経験がない場合でも、自身の力で調べ、taskを達成出来るかどうかを確認するものである。<br>
+Webや書籍等を用いて調べるのは可、他人に相談するのは禁止。<br>
+なお、使用言語やフレームワークに制限は無い。</p>
+
+<h3>
+<a id="user-content-task1" class="anchor" href="./index#task1" aria-hidden="true"><span class="octicon octicon-link"></span></a>課題1</h3>
+
+<p>任意のWebサーバをインストール・起動し、http://IPアドレス/ でアクセスした際、”AMAZON” と表示されるように設定をしてください。<br>
+また、OSを再起動した場合でも自動的にWebサーバが起動するように設定して下さい。</p>
+
+<h5><strong>＜実行例＞</strong></h5>
+
+<pre><code>$ curl "http://1.2.3.4/"
+AMAZON
+</code></pre>
+
+<h3>
+<a id="user-content-task2" class="anchor" href="./index#task2" aria-hidden="true"><span class="octicon octicon-link"></span></a>課題2</h3>
+
+<p>http://IPアドレス/secret/ へアクセスした際、下記の情報でベーシック認証を行った場合のみ、SUCCESS と表示するように設定してください。<br>
+ユーザ名: amazon<br>
+パスワード: candidate</p>
+
+<h5><strong>＜実行例＞</strong></h5>
+
+<pre><code>(認証なしでのアクセス例)
+$ curl "http://1.2.3.4/secret/"
+&lt;!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN"&gt;
+&lt;html&gt;&lt;head&gt;
+&lt;title&gt;401 Authorization Required&lt;/title&gt;
+&lt;/head&gt;&lt;body&gt;
+&lt;h1&gt;Authorization Required&lt;/h1&gt;
+&lt;p&gt;This server could not verify that you
+are authorized to access the document
+requested.  Either you supplied the wrong
+credentials (e.g., bad password), or your
+browser doesn't understand how to supply
+the credentials required.&lt;/p&gt;
+&lt;hr&gt;
+&lt;address&gt;Apache/2.2.29 (Amazon) Server at 1.2.3.4 Port 80&lt;/address&gt;
+&lt;/body&gt;&lt;/html&gt;
+
+(認証ありでのアクセス例)
+$ curl -u amazon:candidate "http://1.2.3.4/secret/"
+SUCCESS
+</code></pre>
+
+<h3>
+<a id="user-content-task3" class="anchor" href="./index#task3" aria-hidden="true"><span class="octicon octicon-link"></span></a>課題3</h3>
+
+<p>四則演算の文字列を下記のようにパラメータとしてアクセスした場合に、計算結果を返すようなプログラムを作成してください。  </p>
+
+<p><strong>＜条件＞</strong></p>
+
+<ul>
+<li>数字と+-*/()以外の文字列が与えられた場合には、"ERROR"と出力して下さい</li>
+<li>余剰が発生するような除算、または０による除算は発生しないと考えてよい</li>
+<li>リクエスト対象のパスはチェック時に任意に指定可能です (/cgi-bin/calc.cgi? 等)</li>
+</ul>
+
+<p><strong>＜実行例＞</strong></p>
+
+<pre><code>$ curl 'http://1.2.3.4/calc?abc'
+ERROR
+$ curl 'http://1.2.3.4/calc?1+1'
+2
+$ curl 'http://1.2.3.4/calc?2-1'
+1
+$ curl 'http://1.2.3.4/calc?3*2'
+6
+$ curl 'http://1.2.3.4/calc?4/2'
+2
+$ curl 'http://1.2.3.4/calc?1+2*3'
+7
+$ curl 'http://1.2.3.4/calc?(1+2)*3'
+9
+</code></pre>
+
+<h3>
+<a id="user-content-task4" class="anchor" href="./index#task4" aria-hidden="true"><span class="octicon octicon-link"></span></a>課題4</h3>
+
+<p>簡単な商品在庫管理システムを考えます。以下のような在庫の追加、販売、チェックなどの機能を実装してください。
+いずれの引数についても、予期しない値（例：整数のところに 1.1 の入力）が入力された場合はエラーとして扱い、"ERROR"と出力してください。
+なお、テストでは必ず最初に全削除のリクエストを行いますので、在庫及び売り上げを全て削除するようにしてください。</p>
+
+<p>前提として、商品名は8文字以内とします。</p>
+
+<h5>(1) 在庫の追加</h5>
+
+<p>引数：
+</p><ul>
+<li>function（必須）：addstock</li>
+<li>name（必須）：対象の商品の名前を指定する。</li>
+<li>amount（任意）：対象の商品を在庫に追加する数（正の整数）を指定する。省略時は 1 とする。</li>
+</ul>
+<p></p>
+
+<p>出力：なし</p>
+
+<h5>(2) 在庫チェック</h5>
+
+<p>引数：
+</p><ul>
+<li>function（必須）：checkstock</li>
+<li>name（任意）：対象の商品の名前を指定する。</li>
+</ul>
+<p></p>
+
+<p>
+出力：
+</p><ul>
+<li>nameが指定された場合は、そのnameの商品の在庫の数を "[name]: [amount]" の形式で出力する。在庫が無い場合は amountを 0 として表示する。</li>
+<li>nameが指定されない場合は、全ての商品の在庫の数をnameをキーに昇順ソートして出力する。在庫が 0 のものは表示しない。</li>
+</ul>
+<p></p>
+
+<p>出力例：
+</p><pre><code>xxx: 12
+yyy: 7
+</code></pre>
+<p></p>
+
+<h5>(3) 販売</h5>
+
+<p>
+引数：
+</p><ul>
+<li>function（必須）：sell</li>
+<li>name（必須）：対象の商品の名前を指定する。</li>
+<li>amount（任意）：対象の商品を販売する数（正の整数）を指定する。省略時は 1 とする。</li>
+<li>price（任意）：対象の商品の価格（0より大きい数値）を指定する。入力された時のみ、price x amount を売り上げに加算する。</li>
+</ul>
+<p></p>
+
+<p>出力：なし</p>
+
+<h5>(4) 売り上げチェック</h5>
+
+<p>引数：
+</p><ul>
+<li>function（必須）：checksales</li>
+</ul>
+<p></p>
+
+<p>出力： その時点の売り上げを "sales: [sales]" の形式で表示する。小数の場合は小数点第二位まで表示されるよう切り上げてください。
+</p>
+
+<p>出力例：
+</p><pre><code>sales: 400
+</code></pre>
+<p></p>
+
+<h5>(5) 全削除</h5>
+
+<p>引数：
+</p><ul>
+<li>function（必須）：deleteall</li>
+</ul>
+<p></p>
+
+<p>出力：なし</p>
+
+
+
+<p></p>
+
+<h5><strong>＜実行例＞</strong></h5>
+
+ケース1:
+<pre><code>$ curl "http://1.2.3.4:8080/stocker?function=deleteall"
+$ curl "http://1.2.3.4:8080/stocker?function=addstock&amp;name=xxx&amp;amount=100"
+$ curl "http://1.2.3.4:8080/stocker?function=sell&amp;name=xxx&amp;amount=4" 
+$ curl "http://1.2.3.4:8080/stocker?function=checkstock&amp;name=xxx"
+xxx: 96
+$ curl "http://1.2.3.4:8080/stocker?function=addstock&amp;name=yyy&amp;amount=100"
+$ curl "http://1.2.3.4:8080/stocker?function=addstock&amp;name=YYY&amp;amount=100"
+$ curl "http://1.2.3.4:8080/stocker?function=checkstock"
+xxx: 96
+yyy: 100
+YYY: 100
+</code></pre>
+
+ケース2:
+<pre><code>$ curl "http://1.2.3.4:8080/stocker?function=deleteall"
+$ curl "http://1.2.3.4:8080/stocker?function=addstock&amp;name=xxx&amp;amount=1.1"
+ERROR
+</code></pre>
+
+ケース3:
+<pre><code>$ curl "http://1.2.3.4:8080/stocker?function=deleteall"
+$ curl "http://1.2.3.4:8080/stocker?function=addstock&amp;name=aaa&amp;amount=10"
+$ curl "http://1.2.3.4:8080/stocker?function=addstock&amp;name=bbb&amp;amount=10"
+$ curl "http://1.2.3.4:8080/stocker?function=sell&amp;name=aaa&amp;amount=4&amp;price=100"
+$ curl "http://1.2.3.4:8080/stocker?function=sell&amp;name=aaa&amp;price=80"
+$ curl "http://1.2.3.4:8080/stocker?function=checkstock&amp;name=aaa"
+aaa: 5
+$ curl "http://1.2.3.4:8080/stocker?function=checksales"
+sales: 480
+</code></pre>
+
+<hr>
+<h4>参考：SSH鍵の新規作成例(UNIX系OS)</h4>
+<pre>~$ ssh-keygen -t rsa -f ec2
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): (パスフレーズ)
+Enter same passphrase again: (パスフレーズ)
+Your identification has been saved in ec2.
+Your public key has been saved in ec2.pub.
+The key fingerprint is:
+02:98:a2:c9:79:c0:6f:6c:7c:4e:39:fc:91:ae:87:43 foo@example.com
+The key's randomart image is:
++--[ RSA 2048]----+
+|                 |
+|.  o             |
+|.oo .            |
+|oo* ... .        |
+|oo B *.oS        |
+|  + +E+..        |
+|    ...o         |
+|     o..         |
+|     .o          |
++-----------------+
+~$ cat ec2.pub
+ssh-rsa AAAA...(略)... foo@example.com
+</pre>
+上記で作成された .pub ファイルの内容を、SSH公開鍵欄に貼り付けして下さい。
+</div>
+
+<hr>
+<div>不明な点は、各自でお調べください。</div>
+</body></html>
