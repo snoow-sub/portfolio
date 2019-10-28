@@ -6,7 +6,7 @@ I am not used to using GitHub. And I am not very confident in English, but I wil
 
 This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jekyllrb.com/) .
 
-<!-- Click [here](https://github.com/7vXXi/portfolio/) to change. -->
+<!-- Click [here](https://github.com/7vvXi/portfolio/) to change. -->
 
 ## My profile
 
@@ -31,7 +31,7 @@ Click [here](/junior/index.md) to see.
 In junior high school, I made a simple quiz game.
 This was my first programming.
 
-[Jump page(Junior High School) →](https://7vxxi.github.io/portfolio/junior/)
+[Jump page(Junior High School) →](https://7vvxi.github.io/portfolio/junior/)
 
 ### High School (Industrial high school)
 
@@ -39,14 +39,14 @@ Click [here](/high/index.md) to see.
 In High School, I made a lot of items.
 I studied programming in earnest.
 
-[Jump page(High School) →](https://7vxxi.github.io/portfolio/high/)
+[Jump page(High School) →](https://7vvxi.github.io/portfolio/high/)
 
 ### University
 
 Click [here](/univ/index.md) to see.
 In University, I have a new challenge.
 
-[Jump page(University) →](https://7vxxi.github.io/portfolio/univ/)
+[Jump page(University) →](https://7vvxi.github.io/portfolio/univ/)
 
 ### Future
 
