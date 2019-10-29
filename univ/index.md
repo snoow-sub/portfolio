@@ -6,7 +6,7 @@ In University, I'm trying new things.
 <a class="zip_download_link" href="https://github.com/7vvXi/portfolio/raw/master/univ/shooting.zip">Download this project as a .zip file</a>
 
 It is a shooting game created in the class.
-You will be able to play [here](https://7vxxi.github.io/portfolio/univ/shoot/)
+You will be able to play [here](https://7vvxi.github.io/portfolio/univ/shoot/)
 >https://7vvxi.github.io/portfolio/univ/shoot/
 
 
