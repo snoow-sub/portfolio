@@ -16,9 +16,8 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachi%C5%8Dji)
 - Jobs : Third year of University ([Tokyo University of Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Technology))
 - Qualification : IT passport(IPA), Basic information engineer(IPA)
-
-- Github : https://github.com/7vvXi
-- Qiita : https://qiita.com/7vvXi
+- Github My Page : https://github.com/7vvXi
+- Qiita  My Page : https://qiita.com/7vvXi
 
 ### About me
 
