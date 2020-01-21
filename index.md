@@ -15,7 +15,8 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 - Name : Yuuki Takagi (Japanese : 高木優希)
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachi%C5%8Dji)
 - Jobs : Third year of University ([Tokyo University of Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Technology))
-- Qualification : IT passport(IPA), Basic information engineer(IPA)
+- Qualification : IP(IPA), FE(IPA), AP(IPA)
+- Laboratory Page : https://www.tak-cslab.org/
 - Github My Page : https://github.com/7vvXi
 - Qiita  My Page : https://qiita.com/7vvXi
 
