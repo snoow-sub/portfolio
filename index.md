@@ -16,10 +16,14 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachi%C5%8Dji)
 - Jobs : Fourth year of University ([Tokyo University of Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Technology))
 - Qualification : IP(IPA), FE(IPA), AP(IPA)
-- Laboratory Page : https://www.tak-cslab.org/
-- Laboratory Page(Japanese)：https://ja.tak-cslab.org/
-- Github My Page : https://github.com/7vvXi
-- Qiita  My Page : https://qiita.com/7vvXi
+- Laboratory : 
+  - [English Page](https://www.tak-cslab.org/)
+  - [Japanese Page](https://ja.tak-cslab.org/)
+  
+[![Qiita Page](/images/qiita.png)](https://qiita.com/7vvXi)
+[![Github Page](/images/github.png)](https://github.com/7vvXi)
+[![LAPRAS Page](/images/lapras.png)](https://lapras.com/public/POPYNSM)
+
 
 ### About me
 
