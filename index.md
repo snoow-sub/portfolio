@@ -13,16 +13,17 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 ![My Profile Image](/images/Img200.jpg)
 
 - Name : Yuuki Takagi (Japanese : 高木優希)
-- Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachi%C5%8Dji)
+- Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachioji)
 - Jobs : Fourth year of University ([Tokyo University of Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Technology))
 - Qualification : IP(IPA), FE(IPA), AP(IPA)
-- Laboratory : 
-  - [English Page](https://www.tak-cslab.org/)
-  - [Japanese Page](https://ja.tak-cslab.org/)
-  
-[![Qiita Page](/images/qiita.png)](https://qiita.com/7vvXi)
-[![Github Page](/images/github.png)](https://github.com/7vvXi)
-[![LAPRAS Page](/images/lapras.png)](https://lapras.com/public/POPYNSM)
+- Laboratory : Cloud and Distributed Systems Laboratory
+  - [English website](https://www.tak-cslab.org/)
+  - [Japanese website](https://ja.tak-cslab.org/)
+- Other accounts
+
+  [![Qiita Page](/images/qiita.png)](https://qiita.com/7vvXi)
+  [![Github Page](/images/github.png)](https://github.com/7vvXi)
+  [![LAPRAS Page](/images/lapras.png)](https://lapras.com/public/POPYNSM)
 
 
 ### About me
