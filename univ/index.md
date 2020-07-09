@@ -7,8 +7,8 @@ In University, I'm trying new things.
 
 It is a shooting game created in the class.
 You will be able to play [here](https://7vvxi.github.io/portfolio/univ/shoot/)
->https://7vvxi.github.io/portfolio/univ/shoot/
 
+[![lets play](/images/play.png)](https://7vvxi.github.io/portfolio/univ/shoot/)
 
 ### Cancellation Information Acquisition Program (Python)<a class="zip_download_link" href="https://github.com/7vvXi/portfolio/raw/master/univ/notify.zip">Download this project as a .zip file</a>
 
