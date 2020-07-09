@@ -21,11 +21,9 @@ try {
 }
 ```
 
-Learning site (English)
->http://www.gamecradle.net/en/document/main/content/doki/index.html
-
-Learning site (Japanese)
->http://www.gamecradle.net/document/main/content/doki/introduction.html
+### Reference
+- [Learning site (English)](http://www.gamecradle.net/en/document/main/content/doki/index.html)
+- [Learning site (Japanese)](http://www.gamecradle.net/document/main/content/doki/introduction.html)
 
 
-[←back](https://7vvxi.github.io/portfolio/)
+[![back](https://github.com/7vvXi/portfolio/raw/master/images/back.png)](https://7vvxi.github.io/portfolio/)
