@@ -10,9 +10,8 @@ Here, we will fix the code and publish the data uploaded to the rental server.
 
 From [here](http://tibineko923.starfree.jp/shopping/) if you want to login.
 
-![Shopping Site Image](/portfolio/images/shop_pic.png)
+[![Shopping Site Image](https://github.com/7vvXi/portfolio/raw/master/images/shop_pic.png)](http://tibineko923.starfree.jp/shopping/)
 
-[![Jump shopping page](/images/jw.png)](http://tibineko923.starfree.jp/shopping/)
 
 ### C language Program 
 
@@ -21,7 +20,7 @@ From [here](http://tibineko923.starfree.jp/shopping/) if you want to login.
 What is the tower of Hanoi?
 >https://en.wikipedia.org/wiki/Tower_of_Hanoi
 
-![Tower of Hanoi Image](/portfolio/images/hanoi.gif)
+![Tower of Hanoi Image](https://github.com/7vvXi/portfolio/raw/master/images/hanoi.gif)
 
 Please specify the number on the command line.
 
@@ -62,4 +61,4 @@ Point the camera to a target image, release the shutter, and points will be adde
 Comming Sonn...
 
 
-[←back](https://7vvxi.github.io/portfolio/)
+[![back](https://github.com/7vvXi/portfolio/raw/master/images/back.png)](https://7vvxi.github.io/portfolio/)
