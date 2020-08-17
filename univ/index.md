@@ -20,7 +20,8 @@ Get that information and notify LINE. And, information that has already been acq
 The question of the Amazon Web Service adoption test was very interesting, so I'll describe it.
 I set up a web server and created Basic authentication, four arithmetic operations, and a product inventory management system using SQL.
 I was able to solve everything and implemented it.
-The problem is listed [here](https://7vvxi.github.io/portfolio/univ/aws_is_task/).
+The steps are summarized [Qiita article](https://qiita.com/7vvXi/items/1e5a18a556425796775b).
+<!-- The problem is listed [here](https://7vvxi.github.io/portfolio/univ/aws_is_task/). -->
 
 
 ### Malware Classification(Python)
