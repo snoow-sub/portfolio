@@ -14,11 +14,11 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 - Name : Yuuki Takagi (Japanese : 高木優希)
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachioji)
-- Jobs : Fourth year of University ([Tokyo University of Technology](https://en.wikipedia.org/wiki/Tokyo_University_of_Technology))
+- Jobs : Fourth year of University ([Tokyo University of Technology](https://www.teu.ac.jp/english/index.html))
 - Laboratory : Cloud and Distributed Systems Laboratory
   - [English website](https://www.tak-cslab.org/)
   - [Japanese website](https://ja.tak-cslab.org/)
-- Qualification : IP(IPA), FE(IPA), AP(IPA)
+- Qualification : IP(IPA), FE(IPA), AP(IPA), PAST Advanced Beginner Class(AtCoder)
 - Paper
   - Information Processing Society of Japan (2020)
     - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [発表資料](https://drive.google.com/file/d/1bz1Vt2lZgQdf5DzaSxSZSa8vyrxH-ErA/view)
