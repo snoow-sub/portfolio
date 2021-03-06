@@ -20,8 +20,12 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [Japanese website](https://ja.tak-cslab.org/)
 - Qualification : IP(IPA), FE(IPA), AP(IPA), PAST Advanced Beginner Class(AtCoder)
 - Paper
-  - Information Processing Society of Japan (2020)
-    - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [発表資料](https://drive.google.com/file/d/1bz1Vt2lZgQdf5DzaSxSZSa8vyrxH-ErA/view)
+  - [Information Processing Society of Japan (CSEC 2020)](https://www.ipsjdps.org/node/232)
+    - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [Slide](https://drive.google.com/file/d/1bz1Vt2lZgQdf5DzaSxSZSa8vyrxH-ErA/view)
+- Conference
+  - [IEEE CCEM Pre Conference Workshop 2021](https://2021.pcw.ieeeccem.org/)
+    - [Tree structured identifiers for sensor](https://drive.google.com/file/d/10f4hioCUcgXI4is4xztbpRml1LOBE2Gl/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1cjPEHyggo3vN_2gRbEH9yBcFpqZobfYU/view?usp=sharing)
+
 - Other accounts
 
   [![Qiita Page](/images/qiita.png)](https://qiita.com/7vvXi)
