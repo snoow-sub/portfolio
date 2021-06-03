@@ -14,7 +14,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 - Name : Yuuki Takagi (Japanese : 高木優希)
 - Address : [Hachoji, Tokyo, Japan](https://en.wikipedia.org/wiki/Hachioji)
-- Jobs : Fourth year of University ([Tokyo University of Technology](https://www.teu.ac.jp/english/index.html))
+- Jobs : First year of graduate studies ([Tokyo University of Technology](https://www.teu.ac.jp/english/index.html))
 - Laboratory : Cloud and Distributed Systems Laboratory
   - [English website](https://www.tak-cslab.org/)
   - [Japanese website](https://ja.tak-cslab.org/)
