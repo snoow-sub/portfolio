@@ -20,7 +20,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [Japanese website](https://ja.tak-cslab.org/)
 - Qualification : IP(IPA), FE(IPA), AP(IPA), PAST Advanced Beginner Class(AtCoder)
 - Paper
-  - [Information Processing Society of Japan (CSEC 2020)](https://www.ipsjdps.org/node/232)
+  - [Information Processing Society of Japan (DPS182)](https://www.ipsjdps.org/node/232)
     - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [Slide](https://drive.google.com/file/d/1Z1Aw1AeTMSKaTHUfs_F-zI-1u76T-y5l/view?usp=sharing)
   - [Information Processing Society of Japan (DPS187)](https://www.ipsjdps.org/node/241)
     - [木構造を拡張したセンサー識別子の自動割当](http://id.nii.ac.jp/1001/00211239/) Presented with [Slide](https://drive.google.com/file/d/1SJ_7qcfq2uxFlfb2-HrUX6hbHZ6DNe_5/view?usp=sharing)
