@@ -27,7 +27,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 - Conference
   - [IEEE CCEM Pre Conference Workshop 2021](https://2021.pcw.ieeeccem.org/)
     - [Tree structured identifiers for sensor](https://drive.google.com/file/d/10f4hioCUcgXI4is4xztbpRml1LOBE2Gl/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1cjPEHyggo3vN_2gRbEH9yBcFpqZobfYU/view?usp=sharing)
-  - [IEEE CCEM 2021](https://2021.ieeeccem.org/)
+  - [IEEE CCEM 2021](https://2021.ieeeccem.org/) - <b>First Prize</b>
     - [Improving the accuracy of PM2.5 by using the hybrid CNN-LSTM model](https://2021.ieeeccem.org/#program) Presented with [Slide](https://drive.google.com/file/d/1VohsWuANLZ0ZIpdliFjaT0VlxsefyfRh/view?usp=sharing)
 
 - Other accounts
