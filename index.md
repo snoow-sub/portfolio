@@ -21,14 +21,14 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 - Qualification : IP(IPA), FE(IPA), AP(IPA), PAST Advanced Beginner Class(AtCoder)
 - Paper
   - [Information Processing Society of Japan (DPS182)](https://www.ipsjdps.org/node/232)
-    - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [Slide](https://drive.google.com/file/d/1Z1Aw1AeTMSKaTHUfs_F-zI-1u76T-y5l/view?usp=sharing)
+    - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [Slide](https://drive.google.com/file/d/19flpFshYi3xi4IV0n2biP-tXE1f1PwtA/view?usp=sharing)
   - [Information Processing Society of Japan (DPS187)](https://www.ipsjdps.org/node/241)
-    - [木構造を拡張したセンサー識別子の自動割当](http://id.nii.ac.jp/1001/00211239/) Presented with [Slide](https://drive.google.com/file/d/1SJ_7qcfq2uxFlfb2-HrUX6hbHZ6DNe_5/view?usp=sharing)
+    - [木構造を拡張したセンサー識別子の自動割当](http://id.nii.ac.jp/1001/00211239/) Presented with [Slide](https://drive.google.com/file/d/1zMqRmaKGPoAjYB3VNyKnUmE-xqJ1a6KS/view?usp=sharing)
 - Conference
   - [IEEE CCEM Pre Conference Workshop 2021](https://2021.pcw.ieeeccem.org/)
-    - [Tree structured identifiers for sensor](https://drive.google.com/file/d/10f4hioCUcgXI4is4xztbpRml1LOBE2Gl/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1cjPEHyggo3vN_2gRbEH9yBcFpqZobfYU/view?usp=sharing)
+    - [Tree structured identifiers for sensor](https://drive.google.com/file/d/1BHM0fdKzNe5Jy-MMrGOCHVwqdYGisj37/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1dm_amv1WSGihyAkYUsSmf3m4xA-eN-34/view?usp=sharing)
   - [IEEE CCEM 2021](https://2021.ieeeccem.org/) - <b>First Prize</b>([JP](https://www.teu.ac.jp/information/2021.html?id=199)/[EN](https://www-teu-ac-jp.translate.goog/information/2021.html?id=199&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=nui))
-    - [Improving the accuracy of PM2.5 by using the hybrid CNN-LSTM model](https://drive.google.com/file/d/1uij0_ohBtDrbAXPkhZDKy1wcYIRgqMrZ/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1VohsWuANLZ0ZIpdliFjaT0VlxsefyfRh/view?usp=sharing)
+    - [Improving the accuracy of PM2.5 by using the hybrid CNN-LSTM model](https://drive.google.com/file/d/1Dkp6a9O-jlr5d1oyH6ocKb4tFYUb0Nus/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1Yt9QLi38vOW0Ayl0a-anxchv2_ajVLu3/view?usp=sharing)
 
 - Other accounts
 
