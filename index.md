@@ -34,6 +34,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
   [![Qiita Page](/images/qiita.png)](https://qiita.com/7vvXi)
   [![Github Page](/images/github.png)](https://github.com/7vvXi)
+  [![LinkedIn Page](/images/linkedin.png)](https://www.linkedin.com/in/yuuki-takagi-0570451b5/)
   [![LAPRAS Page](/images/lapras.png)](https://lapras.com/public/POPYNSM)
 
 
