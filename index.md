@@ -38,6 +38,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   [![Github Page](/images/github.png)](https://github.com/7vvXi)
   [![LinkedIn Page](/images/linkedin.png)](https://www.linkedin.com/in/yuuki-takagi-0570451b5/)
   [![LAPRAS Page](/images/lapras.png)](https://lapras.com/public/POPYNSM)
+  [![LecoS Page](/images/lecos.png)](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/ODM5SW1GMSs2VEhrL3FqK0JYQ1JyQT09)
 
 
 ### About me
