@@ -34,7 +34,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [Global IoT Summit 2022](https://globaliotsummit.org/)
     - [Accurate indoor positioning based on beacon weighting using RSSI](https://sites.grenadine.co/sites/iot/en/iotweek-2022/schedule/8428/) Presented with [Slide](https://drive.google.com/file/d/1ZDpHjViRUqkDmIuVAe2VF91TEce4HpYJ/view?usp=sharing)
 - Technical Report (Semi-annually / Laboratory)
-  - [テクニカルレポート | クラウド・分散システム研究室](https://ja.tak-cslab.org/tech-report)
+    - [テクニカルレポート | クラウド・分散システム研究室](https://ja.tak-cslab.org/tech-report)
 
 - Other accounts
 
