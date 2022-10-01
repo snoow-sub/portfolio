@@ -78,7 +78,7 @@ In University, I have a new challenge.
 
 ### Graduate school
 
-Scheduled to open after June 2021 :)
+Scheduled to open after October 2022 :)
 
 ### Future
 
