@@ -47,7 +47,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 ### About me
 
-Nice to meet you. My name is Yuuki, a 23-year-old attending Tokyo University of Technology. When I was a junior high school student, I started programming with an interest in creating games on my own.
+Nice to meet you. My name is Yuuki, a 24-year-old attending Tokyo University of Technology. When I was a junior high school student, I started programming with an interest in creating games on my own.
 
 This site is a portfolio site where I wrote what I have done. I want many people to know me. 
 
@@ -78,7 +78,7 @@ In University, I have a new challenge.
 
 ### Graduate school
 
-Scheduled to open after October 2022 :)
+Scheduled to open after December 2022 :)
 
 ### Future
 
