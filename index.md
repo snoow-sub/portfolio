@@ -34,7 +34,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [IEEE CCEM 2021](https://2021.ieeeccem.org/) - <b>First Prize</b>([JP](https://www.teu.ac.jp/information/2021.html?id=199)/[EN](https://www-teu-ac-jp.translate.goog/information/2021.html?id=199&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=nui))
     - [Improving the accuracy of PM2.5 by using the hybrid CNN-LSTM model](https://drive.google.com/file/d/1Dkp6a9O-jlr5d1oyH6ocKb4tFYUb0Nus/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1Yt9QLi38vOW0Ayl0a-anxchv2_ajVLu3/view?usp=sharing)
   - [Global IoT Summit 2022](https://globaliotsummit.org/)
-    - [Accurate indoor positioning based on beacon weighting using RSSI](https://sites.grenadine.co/sites/iot/en/iotweek-2022/schedule/8428/) Presented with [Slide](https://drive.google.com/file/d/1ZDpHjViRUqkDmIuVAe2VF91TEce4HpYJ/view?usp=sharing)
+    - [Accurate indoor positioning based on beacon weighting using RSSI](https://link.springer.com/book/9783031209376) Presented with [Slide](https://drive.google.com/file/d/1ZDpHjViRUqkDmIuVAe2VF91TEce4HpYJ/view?usp=sharing)
 - Technical Report (Semi-annually / Laboratory)
     - [テクニカルレポート(クラウド・分散システム研究室)](https://ja.tak-cslab.org/tech-report)
 
