@@ -27,7 +27,7 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [190th Special Interest Group on Distributed Processing System](https://www.ipsjdps.org/node/247)
     - [加速度センサーの1歩判定を用いたBLEによる3点測位の精度改善](http://id.nii.ac.jp/1001/00216937/) Presented with [Slide](https://drive.google.com/file/d/1uBFq_zJCm6mK4WkZNJl_Z_e5aFip1fEO/view?usp=sharing)
   - [193th Special Interest Group on Distributed Processing System](https://www.ipsjdps.org/node/253)
-    - [BLEビーコンにおけるRSSIの出現確率を用いた外れ値除去による屋内位置測位の誤差削減](http://id.nii.ac.jp/1001/00222622/)
+    - [BLEビーコンにおけるRSSIの出現確率を用いた外れ値除去による屋内位置測位の誤差削減](http://id.nii.ac.jp/1001/00222622/) Presented with [Slide](https://drive.google.com/file/d/1hURZjiLAmP-26ONN4KKzIVtj53AZp4U2/view?usp=sharing)
 - International Conference
   - [IEEE CCEM Pre Conference Workshop 2021](https://2021.pcw.ieeeccem.org/)
     - [Tree structured identifiers for sensor](https://drive.google.com/file/d/1BHM0fdKzNe5Jy-MMrGOCHVwqdYGisj37/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1dm_amv1WSGihyAkYUsSmf3m4xA-eN-34/view?usp=sharing)
