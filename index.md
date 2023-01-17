@@ -19,6 +19,13 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [English website](https://www.tak-cslab.org/)
   - [Japanese website](https://ja.tak-cslab.org/)
 - Qualification : IP(IPA), FE(IPA), AP(IPA), PAST Advanced Beginner Class(AtCoder)
+- International Conference
+  - [IEEE CCEM Pre Conference Workshop 2021](https://2021.pcw.ieeeccem.org/)
+    - [Tree structured identifiers for sensor](https://drive.google.com/file/d/1BHM0fdKzNe5Jy-MMrGOCHVwqdYGisj37/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1dm_amv1WSGihyAkYUsSmf3m4xA-eN-34/view?usp=sharing)
+  - [IEEE CCEM 2021](https://2021.ieeeccem.org/) - <b>First Prize</b>([JP](https://www.teu.ac.jp/information/2021.html?id=199)/[EN](https://www-teu-ac-jp.translate.goog/information/2021.html?id=199&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=nui))
+    - [Improving the accuracy of PM2.5 by using the hybrid CNN-LSTM model](https://drive.google.com/file/d/1Dkp6a9O-jlr5d1oyH6ocKb4tFYUb0Nus/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1Yt9QLi38vOW0Ayl0a-anxchv2_ajVLu3/view?usp=sharing)
+  - [Global IoT Summit 2022](https://globaliotsummit.org/)
+    - [Accurate indoor positioning based on beacon weighting using RSSI](https://link.springer.com/chapter/10.1007/978-3-031-20936-9_2) Presented with [Slide](https://drive.google.com/file/d/1ZDpHjViRUqkDmIuVAe2VF91TEce4HpYJ/view?usp=sharing)
 - Information Processing Society of Japan
   - [182th Special Interest Group on Distributed Processing System](https://www.ipsjdps.org/node/232)
     - [クラウドとIoTの統合におけるセンサーデータ分散管理方法](http://id.nii.ac.jp/1001/00203908/) Presented with [Slide](https://drive.google.com/file/d/19flpFshYi3xi4IV0n2biP-tXE1f1PwtA/view?usp=sharing)
@@ -28,13 +35,8 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
     - [加速度センサーの1歩判定を用いたBLEによる3点測位の精度改善](http://id.nii.ac.jp/1001/00216937/) Presented with [Slide](https://drive.google.com/file/d/1uBFq_zJCm6mK4WkZNJl_Z_e5aFip1fEO/view?usp=sharing)
   - [193th Special Interest Group on Distributed Processing System](https://www.ipsjdps.org/node/253)
     - [BLEビーコンにおけるRSSIの出現確率を用いた外れ値除去による屋内位置測位の誤差削減](http://id.nii.ac.jp/1001/00222622/) Presented with [Slide](https://drive.google.com/file/d/1hURZjiLAmP-26ONN4KKzIVtj53AZp4U2/view?usp=sharing)
-- International Conference
-  - [IEEE CCEM Pre Conference Workshop 2021](https://2021.pcw.ieeeccem.org/)
-    - [Tree structured identifiers for sensor](https://drive.google.com/file/d/1BHM0fdKzNe5Jy-MMrGOCHVwqdYGisj37/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1dm_amv1WSGihyAkYUsSmf3m4xA-eN-34/view?usp=sharing)
-  - [IEEE CCEM 2021](https://2021.ieeeccem.org/) - <b>First Prize</b>([JP](https://www.teu.ac.jp/information/2021.html?id=199)/[EN](https://www-teu-ac-jp.translate.goog/information/2021.html?id=199&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=nui))
-    - [Improving the accuracy of PM2.5 by using the hybrid CNN-LSTM model](https://drive.google.com/file/d/1Dkp6a9O-jlr5d1oyH6ocKb4tFYUb0Nus/view?usp=sharing) Presented with [Slide](https://drive.google.com/file/d/1Yt9QLi38vOW0Ayl0a-anxchv2_ajVLu3/view?usp=sharing)
-  - [Global IoT Summit 2022](https://globaliotsummit.org/)
-    - [Accurate indoor positioning based on beacon weighting using RSSI](https://link.springer.com/book/9783031209376) Presented with [Slide](https://drive.google.com/file/d/1ZDpHjViRUqkDmIuVAe2VF91TEce4HpYJ/view?usp=sharing)
+- Japan Society for Software Science and Technology
+    - [非IT学生に対するITサービス開発のつまづき分析](https://sites.google.com/site/sigrepit/repit2023)
 - Technical Report (Semi-annually / Laboratory)
     - [テクニカルレポート(クラウド・分散システム研究室)](https://ja.tak-cslab.org/tech-report)
 
@@ -80,7 +82,7 @@ In University, I have a new challenge.
 
 ### Graduate school
 
-Scheduled to open after December 2022 :)
+Scheduled to open after 202 :)
 
 ### Future
 
