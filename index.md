@@ -36,8 +36,8 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
   - [193th Special Interest Group on Distributed Processing System](https://www.ipsjdps.org/node/253)
     - [BLEビーコンにおけるRSSIの出現確率を用いた外れ値除去による屋内位置測位の誤差削減](http://id.nii.ac.jp/1001/00222622/) Presented with [Slide](https://drive.google.com/file/d/1hURZjiLAmP-26ONN4KKzIVtj53AZp4U2/view?usp=sharing)
 - Japan Society for Software Science and Technology
-  - [Research on Education of Practical Information Technologies 2023](https://sites.google.com/site/sigrepit/repit2023)
-    - [非IT学生に対するITサービス開発のつまづき分析](https://sites.google.com/site/sigrepit/repit2023/program)
+  - [Research on Education of Practical Information Technologies 2023](https://sites.google.com/site/sigrepit/repit2023/program)
+    - [非IT学生に対するITサービス開発のつまづき分析](https://doi.org/10.11309/repit.2023.0_32)
 
 - Technical Report (Semi-annually / Laboratory)
     - [テクニカルレポート(クラウド・分散システム研究室)](https://ja.tak-cslab.org/tech-report)
