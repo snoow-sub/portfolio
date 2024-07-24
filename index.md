@@ -6,7 +6,7 @@ I am not used to using GitHub. And I am not very confident in English, but I wil
 
 This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jekyllrb.com/) .
 
-<!-- Click [here](https://github.com/7vvXi/portfolio/) to change. -->
+<!-- Click [here](https://github.com/snoow-sub/portfolio/) to change. -->
 
 ## My profile
 
@@ -44,10 +44,10 @@ This page is maked [GitHub Pages](https://github.com/) and [Jekyll](https://jeky
 
 - Other accounts
 
-  [![Qiita Page](/images/qiita.png)](https://qiita.com/7vvXi)
-  [![Github Page](/images/github.png)](https://github.com/7vvXi)
+  [![Qiita Page](/images/qiita.png)](https://qiita.com/snoow-sub)
+  [![Github Page](/images/github.png)](https://github.com/snoow-sub)
   [![LinkedIn Page](/images/linkedin.png)](https://www.linkedin.com/in/yuuki-takagi-0570451b5/)
-  [![LAPRAS Page](/images/lapras.png)](https://lapras.com/public/POPYNSM)
+  [![Credly Page](/images/credly.png)](https://www.credly.com/users/yuuki-takagi.cf0b1372)
   [![LecoS Page](/images/lecos.png)](https://nlp.netlearning.co.jp/ns/portal/openbadge/#/public/assertions/user/ODM5SW1GMSs2VEhrL3FqK0JYQ1JyQT09)
 
 
@@ -65,7 +65,7 @@ Click [here](/junior/index.md) to see.
 In junior high school, I made a simple quiz game.
 This was my first programming.
 
-[![Jump page(Junior High School)](/images/jj.png)](https://7vvxi.github.io/portfolio/junior/)
+[![Jump page(Junior High School)](/images/jj.png)](https://snoow-sub.github.io/portfolio/junior/)
 
 ### High School (Industrial high school)
 
@@ -73,14 +73,14 @@ Click [here](/high/index.md) to see.
 In High School, I made a lot of items.
 I studied programming in earnest.
 
-[![Jump page(High School)](/images/jh.png)](https://7vvxi.github.io/portfolio/high/)
+[![Jump page(High School)](/images/jh.png)](https://snoow-sub.github.io/portfolio/high/)
 
 ### University
 
 Click [here](/univ/index.md) to see.
 In University, I have a new challenge.
 
-[![Jump page(University)](/images/ju.png)](https://7vvxi.github.io/portfolio/univ/)
+[![Jump page(University)](/images/ju.png)](https://snoow-sub.github.io/portfolio/univ/)
 
 
 ### Future
