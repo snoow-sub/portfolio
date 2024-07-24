@@ -82,9 +82,6 @@ In University, I have a new challenge.
 
 [![Jump page(University)](/images/ju.png)](https://7vvxi.github.io/portfolio/univ/)
 
-### Graduate school
-
-Scheduled to open after 202 :)
 
 ### Future
 
